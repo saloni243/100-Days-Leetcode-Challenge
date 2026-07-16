@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
