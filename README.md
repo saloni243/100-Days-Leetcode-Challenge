@@ -17,8 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
