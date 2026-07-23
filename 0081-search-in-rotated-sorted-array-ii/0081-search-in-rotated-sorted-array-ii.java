@@ -12,14 +12,14 @@ class Solution {
                 return true;
             }
 
-            // Handle duplicates
+            
             if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 low++;
                 high--;
                 continue;
             }
 
-            // Left half is sorted
+        
             if (nums[low] <= nums[mid]) {
 
                 if (nums[low] <= target && target < nums[mid]) {
@@ -29,7 +29,7 @@ class Solution {
                 }
 
             }
-            // Right half is sorted
+            
             else {
 
                 if (nums[mid] < target && target <= nums[high]) {
