@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0001-two-sum](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0001-two-sum) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0001-two-sum](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0001-two-sum) |
 ## Binary Search
 |  |
 | ------- |
