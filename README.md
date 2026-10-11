@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0001-two-sum](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0001-two-sum](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
