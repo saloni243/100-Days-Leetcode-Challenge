@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0001-two-sum](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
