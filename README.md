@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
+| [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
