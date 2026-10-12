@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0053-maximum-subarray](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
