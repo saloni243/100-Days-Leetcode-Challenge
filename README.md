@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0344-reverse-string) |
 ## Quicksort
 |  |
 | ------- |
