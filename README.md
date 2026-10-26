@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0069-sqrtx) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
 | ------- |
