@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0268-missing-number) |
+| [0069-sqrtx](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saloni243/100-Days-Leetcode-Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
